@@ -14,4 +14,12 @@
 ![Pickle Rick!](https://avatars.githubusercontent.com/u/51104998?v=4)
 
 
+```
+$ git init
+Initialized empty git repository in /Users/skills/Projects/recipe-respository/.git/
+```
+
+``` javascript
+var myVar = "Hello world!";
+```
 
