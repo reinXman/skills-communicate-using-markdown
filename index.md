@@ -23,3 +23,11 @@ Initialized empty git repository in /Users/skills/Projects/recipe-respository/.g
 var myVar = "Hello world!";
 ```
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+
+- [ ] Turn on github pages
+- [ ] outline my portfolio
+- [ ] Introduce myself to the world
